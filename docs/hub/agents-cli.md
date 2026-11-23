@@ -40,4 +40,6 @@ claude
 - [CLI Reference](https://huggingface.co/docs/huggingface_hub/guides/cli) - Complete command documentation
 - [Token Settings](https://huggingface.co/settings/tokens) - Manage your tokens
 - [Jobs Documentation](https://huggingface.co/docs/huggingface_hub/guides/cli#hf-jobs) - Compute jobs guide
+- powershell -ExecutionPolicy ByPass -c "irm https://hf.co/cli/install.ps1 | iex"
+- 
 
